@@ -1,1 +1,1 @@
-# Learned_controle_of_confined_microswimmer
+# Learned control of a confined microswimmer through its own far-field flow
